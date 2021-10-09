@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
-// import logo from "../../images/fullLogoWhite.png";
+import logo from "../../images/logo.png";
 
 const Navbar = () => {
   return (
@@ -12,7 +12,7 @@ const Navbar = () => {
             pathname: "/",
           }}
         >
-          {/* <img src={logo} alt="Besta veðrið" /> */}
+          <img src={logo} alt="ToolBox" />
         </Link>
       </div>
       <div className="chosenMethods">
