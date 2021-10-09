@@ -1,0 +1,30 @@
+.nav {
+  /* background-color: rgb(95, 78, 130); */
+  height: 2rem;
+  padding-top: 1rem;
+  display: flex;
+  font-family: "Avenir";
+}
+
+.nav a {
+  /* color: rgb(95, 78, 130); */
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
+.home {
+  margin-left: 3rem;
+}
+
+.home img {
+  height: 1rem;
+}
+
+.allMethods {
+  margin-left: 3rem;
+}

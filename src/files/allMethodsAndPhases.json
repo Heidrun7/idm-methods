@@ -1,0 +1,1127 @@
+[
+ {
+   "Method": 1,
+   "Name": "A/B Testing",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 2,
+   "Name": "AEIOU",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 3,
+   "Name": "Affinity Diagramming",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": true
+ },
+ {
+   "Method": 4,
+   "Name": "Artifact Analysis",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 5,
+   "Name": "Automated Remote Research",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 6,
+   "Name": "Backcasting",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 7,
+   "Name": "Behavioral Design",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 8,
+   "Name": "Behavioral Mapping",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 9,
+   "Name": "Blockbusting",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 10,
+   "Name": "Bodystorming",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 11,
+   "Name": "Brainstorm Graphic Organizers",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 12,
+   "Name": "Brand Experience Workshop",
+   "Phase 1": true,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 13,
+   "Name": "Bull's-Eye Diagramming",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 14,
+   "Name": "Business Origami",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 15,
+   "Name": "Card Sorting",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 16,
+   "Name": "Case Studies",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 17,
+   "Name": "Civic Design & Policy",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 18,
+   "Name": "Cognitive Mapping",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 19,
+   "Name": "Cognitive Walkthrough",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 20,
+   "Name": "Collage",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 21,
+   "Name": "Competitive Testing",
+   "Phase 1": true,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 22,
+   "Name": "Concept Mapping",
+   "Phase 1": true,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 23,
+   "Name": "Content Analysis",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 24,
+   "Name": "Content Inventory & Audit",
+   "Phase 1": true,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 25,
+   "Name": "Contextual Design",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 26,
+   "Name": "Contextual Inquiry",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 27,
+   "Name": "Creative Matrix",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 28,
+   "Name": "Creative Toolkits",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 29,
+   "Name": "Critical Incident Technique",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 30,
+   "Name": "Critiques",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 31,
+   "Name": "Crowdsourcing",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": true
+ },
+ {
+   "Method": 32,
+   "Name": "Cultural Probes",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 33,
+   "Name": "Customer Experience Audit",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 34,
+   "Name": "Data Physicalization",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 35,
+   "Name": "Data Visualization",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 36,
+   "Name": "Design Charette",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 37,
+   "Name": "Design Ethnography",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 38,
+   "Name": "Design Fiction",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 39,
+   "Name": "Design Workshops",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 40,
+   "Name": "Desirability Testing",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 41,
+   "Name": "Diary Studies",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 42,
+   "Name": "Directed Storytelling",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 43,
+   "Name": "Drawing",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 44,
+   "Name": "Elito Method",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 45,
+   "Name": "Empathy Maps",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 46,
+   "Name": "Ergonomic Analysis",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 47,
+   "Name": "Evaluative Research",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 48,
+   "Name": "Evidence-based Design",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": true
+ },
+ {
+   "Method": 49,
+   "Name": "Experience Prototyping",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 50,
+   "Name": "Experience Sampling Method",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 51,
+   "Name": "Experiments",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 52,
+   "Name": "Exploratory Research",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 53,
+   "Name": "Eyetracking",
+   "Phase 1": true,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": true,
+   "Phase 5": true
+ },
+ {
+   "Method": 54,
+   "Name": "Flexible Modeling",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 55,
+   "Name": "Fly-on-the-Wall Observation",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 56,
+   "Name": "Focus Groups",
+   "Phase 1": true,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 57,
+   "Name": "Gap Analysis",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 58,
+   "Name": "Generative Research",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 59,
+   "Name": "Graffiti Walls",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 60,
+   "Name": "Heuristic Evaluation",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 61,
+   "Name": "Highlight Reels",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 62,
+   "Name": "Horizon Scanning",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 63,
+   "Name": "How Might We",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 64,
+   "Name": "Image Boards",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 65,
+   "Name": "Importance-Difficulty Matrix",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 66,
+   "Name": "Interviews",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 67,
+   "Name": "KJ Technique",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": true
+ },
+ {
+   "Method": 68,
+   "Name": "Kano Analysis",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 69,
+   "Name": "Key Performance Indicators",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 70,
+   "Name": "Laddering",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 71,
+   "Name": "Literature Reviews",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 72,
+   "Name": "The Love Letter & the Breakup Letter",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 73,
+   "Name": "Mental Model Diagrams",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 74,
+   "Name": "Metaphors",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 75,
+   "Name": "Mind Mapping",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 76,
+   "Name": "Observation",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 77,
+   "Name": "Parallel Prototyping",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 78,
+   "Name": "Participant Observation",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 79,
+   "Name": "Participatory Action Research (PAR)",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": true
+ },
+ {
+   "Method": 80,
+   "Name": "Participatory Design",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 81,
+   "Name": "Personal Inventories",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 82,
+   "Name": "Personas",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 83,
+   "Name": "Photo Studies",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 84,
+   "Name": "Picture Cards",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 85,
+   "Name": "Prototyping",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 86,
+   "Name": "Questionnaires",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 87,
+   "Name": "Rapid Iterative Testing & Evaluation",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 88,
+   "Name": "Remote Moderated Research",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": true
+ },
+ {
+   "Method": 89,
+   "Name": "Research Through Design",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": true
+ },
+ {
+   "Method": 90,
+   "Name": "Role-playing",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 91,
+   "Name": "Rose Thorn Bud",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 92,
+   "Name": "Scenarios",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 93,
+   "Name": "Secondary Research",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 94,
+   "Name": "Semantic Differential",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 95,
+   "Name": "Service Blueprint",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 96,
+   "Name": "Service Design",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 97,
+   "Name": "Shadowing",
+   "Phase 1": true,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": true,
+   "Phase 5": true
+ },
+ {
+   "Method": 98,
+   "Name": "Simulations",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 99,
+   "Name": "Site Search Analytics",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 100,
+   "Name": "Speed Dating",
+   "Phase 1": true,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 101,
+   "Name": "Stakeholder Maps",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 102,
+   "Name": "Stakeholder Walkthrough",
+   "Phase 1": true,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 103,
+   "Name": "Storyboards",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 104,
+   "Name": "Surveys",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 105,
+   "Name": "Swimlanes",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 106,
+   "Name": "Task Analysis",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 107,
+   "Name": "Territory Maps",
+   "Phase 1": true,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 108,
+   "Name": "Thematic Networks",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 109,
+   "Name": "Think-aloud Protocol",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 110,
+   "Name": "Time-aware Research",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 111,
+   "Name": "Touchstone Tours",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 112,
+   "Name": "Transition Design",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 113,
+   "Name": "Tree Testing",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 114,
+   "Name": "Triading",
+   "Phase 1": true,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 115,
+   "Name": "Triangulation",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 116,
+   "Name": "Unobtrusive Measures",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 117,
+   "Name": "Usability Report",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": true
+ },
+ {
+   "Method": 118,
+   "Name": "Usability Testing",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": true
+ },
+ {
+   "Method": 119,
+   "Name": "User Journey Maps",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 120,
+   "Name": "Value Opportunity Analysis",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 121,
+   "Name": "Values-Based Assessment",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 122,
+   "Name": "Web Analytics",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": false,
+   "Phase 4": false,
+   "Phase 5": true
+ },
+ {
+   "Method": 123,
+   "Name": "Weighted Matrix",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ },
+ {
+   "Method": 124,
+   "Name": "Wizard of Oz",
+   "Phase 1": false,
+   "Phase 2": false,
+   "Phase 3": true,
+   "Phase 4": true,
+   "Phase 5": false
+ },
+ {
+   "Method": 125,
+   "Name": "Word Clouds",
+   "Phase 1": false,
+   "Phase 2": true,
+   "Phase 3": true,
+   "Phase 4": false,
+   "Phase 5": false
+ }
+]
