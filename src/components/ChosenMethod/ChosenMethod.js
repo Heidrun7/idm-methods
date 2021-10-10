@@ -3,37 +3,42 @@ import { useParams } from "react-router-dom";
 import myMethodsList from "../../files/myMethods.json";
 import "./ChosenMethod.css";
 import { Typography, Divider } from "antd";
+import { Link } from "react-router-dom";
 
 const ChosenMethod = (props) => {
-  const { Title, Paragraph, Text, Link } = Typography;
+  const { Title, Paragraph, Text } = Typography;
   const { id } = useParams();
 
   let method = 0;
 
-  console.log("mymehtods: ", myMethodsList);
   for (var i = 0; i < myMethodsList.length; i++) {
     if (myMethodsList[i].Number == id) {
       method = myMethodsList[i];
       break;
     }
   }
-  console.log("Chosen method: ", method.Name);
 
-  let references = <></>//method.References.split("\n");
+  let references = <></>
 
   if (method.References.length) {
     references = method.References.split(";").map((data, index) => {
-      console.log("data,index: ", data, index);
-      return <Paragraph>{data}</Paragraph>;
+      return <Paragraph className="hangingIndent">{data}</Paragraph>;
     });
   }
 
-  let tags = <></>//method.References.split("\n");
+  let tags = <></>
   console.log("TAGS: ", method.Tags.split(";"))
 
   if (method.Tags) {
     tags = method.Tags.split(";").map((data, index) => {
-      return <Link className="tags">{data}</Link>;
+      return <Link
+          style={{ color: "lightCoral", paddingRight: "2rem" }}
+          to={{
+            pathname: "/tags/" + data,
+          }}
+        >
+          {data}
+        </Link>
     });
   }
 

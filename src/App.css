@@ -4,6 +4,18 @@
   padding-right: 20px; */
 }
 
+.seperator {
+  height: 30px;
+  background-color: pink;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.appContainer {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
 /* .App {
   text-align: center;
 }

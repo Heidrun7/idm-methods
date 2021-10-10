@@ -17,3 +17,12 @@
   text-align: right;
   background-color: skyblue;
 }
+
+.tags {
+  color: lightcoral !important;
+}
+
+.hangingindent {
+  padding-left: 22px;
+  text-indent: -22px;
+}

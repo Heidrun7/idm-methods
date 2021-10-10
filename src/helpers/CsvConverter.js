@@ -1,8 +1,6 @@
 //var csv is the CSV file with headers
 export default function csvJSON(csv) {
-  console.log("HI");
   var lines = csv.split("\n");
-  console.log("lines: ", lines);
 
   var result = [];
 

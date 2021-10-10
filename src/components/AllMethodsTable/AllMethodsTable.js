@@ -9,8 +9,6 @@ const AllMethodsTable = (props) => {
   const [columns, setColumns] = useState([]);
   const [data, setData] = useState([]);
 
-  console.log("The data is: ", methods);
-
   let tmpColumns = [];
 
   useEffect(() => {
@@ -44,13 +42,11 @@ const AllMethodsTable = (props) => {
         },
       })
     );
-    console.log("columns: ", tmpColumns);
     setColumns(tmpColumns);
 
     let tmpData = [];
 
     Object.keys(methods).map((key, i) => tmpData.push(methods[i]));
-    console.log("data: ", tmpData);
     setData(tmpData);
   }, []);
 
@@ -61,7 +57,7 @@ const AllMethodsTable = (props) => {
   };
 
   return (
-    <div className="tableContainer">
+    <div>
       <Table
         columns={columns}
         dataSource={data}
