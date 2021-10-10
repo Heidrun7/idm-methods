@@ -79,6 +79,10 @@ const Home = () => {
         webpage makes it easy to search, browse, compare, sort and share the
         methods in the Toolbox.
       </Paragraph>
+      {/* <Divider />
+      <Paragraph>
+        <Text italic>-Heiðrún Valdís Heiðarsdóttir</Text>
+      </Paragraph> */}
     </div>
   );
 };
