@@ -13,13 +13,9 @@
   background-color: lightcoral;
 }
 
-.methodGrade {
-  text-align: right;
-  background-color: skyblue;
-}
-
-.tags {
-  color: lightcoral !important;
+.tagLink:hover {
+  color: #c9c0ff !important;
+  text-decoration: underline !important;
 }
 
 .hangingindent {

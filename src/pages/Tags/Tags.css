@@ -1,0 +1,9 @@
+.tag {
+  color: lightcoral !important;
+  padding: 2px;
+}
+
+.tag:hover {
+  color: #c9c0ff !important;
+  text-decoration: underline;
+}

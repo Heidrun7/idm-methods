@@ -6,7 +6,9 @@
 
 .seperator {
   height: 30px;
-  background-color: pink;
+  /* background-color: pink; */
+  /* background-color: rebeccapurple; */
+  background-color: #c9c0ff;
   margin-left: 3rem;
   margin-right: 3rem;
 }

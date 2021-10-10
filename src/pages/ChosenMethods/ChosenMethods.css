@@ -12,13 +12,7 @@
   text-decoration: none;
 }
 
-/* .link a {
-  /* color: rgb(95, 78, 130); */
-/* color: lightcoral !important; 
-  font-weight: bold;
-  text-decoration: none;
-} */
-
 .link:hover {
+  color: #c9c0ff !important;
   text-decoration: underline;
 }

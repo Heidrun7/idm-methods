@@ -31,6 +31,7 @@ const ChosenMethod = (props) => {
   if (method.Tags) {
     tags = method.Tags.split(";").map((data, index) => {
       return <Link
+      className="tagLink"
           style={{ color: "lightCoral", paddingRight: "2rem" }}
           to={{
             pathname: "/tags/" + data,

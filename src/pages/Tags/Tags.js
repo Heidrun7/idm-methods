@@ -1,12 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { TagCloud } from "react-tagcloud";
 import { Link } from "react-router-dom";
-// import "./Tags.css";
+import "./Tags.css";
 import myMethodsList from "../../files/myMethods.json";
 
 const Tags = () => {
   let allTags = [];
-  console.log("myMethods: ", myMethodsList);
   Object.keys(myMethodsList).map((key, i) => {
     if (myMethodsList[i].Tags.length) {
       let tmpTags = myMethodsList[i].Tags.split(";");
@@ -28,7 +27,7 @@ const Tags = () => {
     data.push({
       value: (
         <Link
-          style={{ color: "lightCoral" }}
+          className="tag"
           to={{
             pathname: "/tags/" + key,
           }}
