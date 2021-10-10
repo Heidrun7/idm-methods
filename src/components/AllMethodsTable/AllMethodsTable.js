@@ -19,7 +19,7 @@ const AllMethodsTable = (props) => {
         render: (text) => {
           if (typeof text === "boolean") {
             if (text === true) {
-              return <CheckCircleOutlined />;
+              return <CheckCircleOutlined style={{ color: "lightcoral" }} />;
             }
           } else {
             return String(text);
