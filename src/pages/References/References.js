@@ -1,9 +1,6 @@
-import React, { useState, useEffect } from "react";
-import { TagCloud } from "react-tagcloud";
-import { Link } from "react-router-dom";
-// import ReactWordcloud from "react-wordcloud";
+import React from "react";
 import "./References.css";
-import { Typography, Divider } from "antd";
+import { Typography } from "antd";
 import myMethodsList from "../../files/myMethods.json";
 
 const References = () => {
@@ -18,14 +15,18 @@ const References = () => {
     }
   });
 
-  const counts = [];
+  const sortedRefs = allRefs.sort(function (a, b) {
+    return a.localeCompare(b);
+  });
 
-  for (const num of allRefs) {
+  let counts = [];
+
+  for (const num of sortedRefs) {
     counts[num] = counts[num] ? counts[num] + 1 : 1;
   }
   let references = <></>;
 
-  references = Object.keys(counts.sort()).map((key, i) => {
+  references = Object.keys(counts).map((key, i) => {
     return <Paragraph className="hangingIndent">{key}</Paragraph>;
   });
 
