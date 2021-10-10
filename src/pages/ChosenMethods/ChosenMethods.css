@@ -1,0 +1,24 @@
+.chosenMethodContainer {
+  /* max-width: 80%; */
+  /* margin: auto auto; */
+  background-color: pink;
+  padding-top: 20px;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.link {
+  color: lightcoral !important;
+  text-decoration: none;
+}
+
+/* .link a {
+  /* color: rgb(95, 78, 130); */
+/* color: lightcoral !important; 
+  font-weight: bold;
+  text-decoration: none;
+} */
+
+.link:hover {
+  text-decoration: underline;
+}

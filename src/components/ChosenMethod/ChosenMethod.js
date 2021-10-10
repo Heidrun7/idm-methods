@@ -43,6 +43,7 @@ const ChosenMethod = (props) => {
         <Title>
           Method {id}: {method.Name}
         </Title>
+        <Title level={2}>Rating: {method.Grade}</Title>
         <Title level={2}>Input</Title>
         <Paragraph>{method.Input}</Paragraph>
         <Title level={2}>Output</Title>

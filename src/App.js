@@ -7,6 +7,8 @@ import Navbar from "./components/Navbar/Navbar";
 import AllMethods from "./pages/AllMethods/AllMethods";
 import ChosenMethods from "./pages/ChosenMethods/ChosenMethods";
 import ChosenMethod from "./components/ChosenMethod/ChosenMethod";
+import References from "./pages/References/References";
+import Tags from "./pages/Tags/Tags";
 
 function App() {
   return (
@@ -22,6 +24,8 @@ function App() {
           />
           <Route path="/chosen-methods/:id" render={() => <ChosenMethod />} />
           <Route exact path="/all-methods" render={() => <AllMethods />} />
+          <Route exact path="/tags" render={() => <Tags />} />
+          <Route exact path="/references" render={() => <References />} />
         </Switch>
       </Router>
     </div>

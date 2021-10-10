@@ -1,5 +1,8 @@
 .tableContainer {
-  max-width: 80%;
-  margin: auto auto;
+  background-color: pink;
+  /* max-width: 80%;
+  margin: auto auto; */
   padding-top: 20px;
+  margin-left: 3rem;
+  margin-right: 3rem;
 }

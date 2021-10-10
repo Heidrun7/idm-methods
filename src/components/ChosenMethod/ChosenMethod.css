@@ -5,3 +5,15 @@
 .wrapper {
   padding-bottom: 20px;
 }
+
+.topRow {
+  display: flex;
+  justify-content: space-between!;
+  color: pink;
+  background-color: lightcoral;
+}
+
+.methodGrade {
+  text-align: right;
+  background-color: skyblue;
+}
