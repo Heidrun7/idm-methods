@@ -15,7 +15,6 @@ const Tag = () => {
   let methodList = [];
 
   for (var i = 0; i < myMethodsList.length; i++) {
-    console.log("LIST: ", myMethodsList[i]);
     let tmpTags = myMethodsList[i].Tags.split(";");
     for (var j = 0; j < tmpTags.length; j++) {
       if (tmpTags.includes(id)) {
@@ -27,9 +26,6 @@ const Tag = () => {
   var filteredArray = methodList.filter(function (item, pos) {
     return methodList.indexOf(item) == pos;
   });
-
-  console.log("Method list: ", methodList);
-  console.log("Method list: ", filteredArray);
 
   const columns = [
     {
@@ -78,6 +74,7 @@ const Tag = () => {
 
   return (
     <div>
+      <Title>Methods tagged with '{id}':</Title>
       <Table
         columns={columns}
         dataSource={data}

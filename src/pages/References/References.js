@@ -10,8 +10,6 @@ const References = () => {
   const { Title, Paragraph, Text, Link } = Typography;
   let allRefs = [];
   Object.keys(myMethodsList).map((key, i) => {
-    console.log("key,i", key, i);
-    console.log(myMethodsList[i].References);
     if (myMethodsList[i].References.length) {
       let tmpRefs = myMethodsList[i].References.split(";");
       for (let x = 0; x < tmpRefs.length; x++) {

@@ -4,8 +4,6 @@ import allMethodsList from "../../files/allMethodsAndPhases.json";
 import AllMethodsTable from "../../components/AllMethodsTable/AllMethodsTable";
 
 const AllMethods = () => {
-  console.log("All methods list: ", allMethodsList);
-
   return (
     <div className="wrapper">
       <AllMethodsTable methods={allMethodsList} />{" "}

@@ -27,7 +27,6 @@ const ChosenMethod = (props) => {
   }
 
   let tags = <></>
-  console.log("TAGS: ", method.Tags.split(";"))
 
   if (method.Tags) {
     tags = method.Tags.split(";").map((data, index) => {
